@@ -1,0 +1,24 @@
+{
+  "name": "blogbf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "captchapng": "^0.0.1",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "formidable": "^1.2.1",
+    "fs-extra": "^7.0.0",
+    "markdown-it": "^8.4.2",
+    "mysql": "^2.16.0",
+    "time-ago": "^0.2.1",
+    "utility": "^1.14.0"
+  }
+}
